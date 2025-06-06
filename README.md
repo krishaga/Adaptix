@@ -22,7 +22,7 @@ Adaptix is a modern video streaming platform featuring **adaptive streaming**—
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/krishaga/Adaptix.git
    cd adaptix
    ```
 2. **Install dependencies:**
